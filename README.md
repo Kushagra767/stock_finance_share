@@ -1,4 +1,17 @@
-# HOLDLE 投資交易課設計程式(www.holdle.com)
+HOLDLE Investment Trading Course Design Program (www.holdle.com)
+About HOLD LE
+HOLD LE is a trading strategy learning and tool website, which aims to spread the correct value investment concepts and skills, and learn how to use various analysis methods to improve the success rate of transactions and increase the return of transactions. HOLD LE is suitable for financial transactions including stocks, blockchain currency, foreign exchange, etc. It is an efficient trading strategy that has been tested by the author for many trading practices. After learning, it can greatly improve the judgment and operation capabilities of financial transactions. The core content includes:
+
+The correct concept of investment transactions
+Use the HOLD LE tool to analyze and search for stocks with high probability of growth
+Screen out investment targets with medium and long-term growth value
+The emergence node of the best transaction time (maximize profit, minimize risk)
+Optimal handling of each link in the transaction, such as buying and selling
+Efficient ways to diversify investment
+Avoid various traps in the transaction process
+How to use Bitcoin and foreign exchange transactions
+
+# HOLDLE 投資交易課設計程式(www.holdle.com) 
 
 ### 關于 HOLD LE
 HOLD LE 是一個交易策略學習及工具網站，旨在傳播正確的價值投資觀念及技巧，學習如何通過合理運用各種分析方法，提高交易成功率，提升交易回報。
